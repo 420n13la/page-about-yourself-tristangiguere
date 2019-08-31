@@ -1,0 +1,31 @@
+<style>
+
+@import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body {
+  	background-color: lightblue;
+}
+
+h1 {
+  	color: red;
+  	text-align: center;
+  	font-family: 'Poppins', sans-serif;
+	font-weight: 500
+}
+	
+h1.welcome {
+	color: #000000;
+	font-size: 20px
+	
+	}
+
+h2 {
+ 	color: blue;
+	font-family: 'Poppins', sans-serif;
+}
+
+p {
+  	font-size: 20px;
+}
+</style>
