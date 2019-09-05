@@ -28,17 +28,7 @@ p {
   	font-size: 20px;
 }
 
-img.image01 {
-	width: 175px;
-	height: 175px;
-}
-
-img.image02 {
-	width: 175px;
-	height: 175px
-}
-
-img.image03 {
+img {
 	width:175px;
 	height: 175px;
 }
